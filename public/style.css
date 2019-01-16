@@ -1,0 +1,23 @@
+.home {
+    color: #0000ff; }
+  
+  .login {
+    color: #ff0000; }
+  
+  .signup {
+    color: #ff0000; }
+  
+  .usermanage {
+    color: red;
+    margin-top: 80px; }
+    .usermanage table {
+      color: #0000ff;
+      font-size: 20px; }
+  
+  body {
+    background: #ffffff; }
+  
+  .app {
+    font-family: sans-serif;
+    font-size: 20px; }
+  
